@@ -85,5 +85,5 @@ Takım çalışmasında **Agile/Scrum** metodolojilerini aktif olarak kullanıyo
 Projelerimi incelediğiniz için teşekkür ederim! Benimle her zaman profesyonel ağlar üzerinden iletişime geçebilirsiniz:
 
 *   💼 **LinkedIn:** [linkedin.com/in/hulya-cerit/](https://linkedin.com/in/hulya-cerit/)
-*   📧 **E-posta:** [hulyacerit.eng@gmail.com](mailto:hulyacerit.eng@gmail.com)
+*   📧 **E-posta:** [hulyacerit.eng@gmail.com](mailto:hulyacerit5@gmail.com)
 *   🌐 **Portfolyo:** *Çok yakında burada yayınlanacak!*
